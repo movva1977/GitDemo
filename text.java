@@ -13,3 +13,11 @@ Statements..
 Statements..Statements..
 Statements..
 Statements..}
+Private Class Classname4{
+Statements..
+Statements..Statements..
+Statements..
+Private Class Classname5{
+Statements..
+Statements..Statements..
+Statements..
