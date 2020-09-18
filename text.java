@@ -14,6 +14,7 @@ Statements..
 Statements..Statements..
 Statements..
 Statements..}
+<<<<<<< HEAD
 Private Class Classname4{
 Statements..
 Statements..Statements..
@@ -45,3 +46,20 @@ public class gitstuff8{
 }
 >>>>>>> 061c665d87dfceceb373653644be10bf744e9d4e
 >>>>>>> e3e5898cc23d201ebf58b76c5621a0ba9aea75a6
+=======
+Private Class ClassnameX{
+Statements..
+Statements..Statements..
+Statements..
+Statements..}
+Private Class ClassnameY{
+Statements..
+Statements..Statements..
+Statements..
+Statements..}
+Private Class ClassnameZ{
+Statements..
+Statements..Statements..
+Statements..
+Statements..}
+>>>>>>> Develop
