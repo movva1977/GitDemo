@@ -12,3 +12,10 @@ public class gitstuff5{
 }
 public class gitstuff6{
 }
+<<<<<<< HEAD
+=======
+public class gitstuff7{
+}
+public class gitstuff8{
+}
+>>>>>>> 061c665d87dfceceb373653644be10bf744e9d4e
